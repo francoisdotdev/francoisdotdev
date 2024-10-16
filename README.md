@@ -8,6 +8,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="vue.js" src="[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)" />
 </p>
 
 ![francoislfv's Stats](https://github-readme-stats.vercel.app/api?username=francoislfv&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)   ![francoislfv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoislfv&theme=great-gatsby&hide_border=true)
