@@ -10,7 +10,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-![francoislfv's Stats](https://github-readme-stats.vercel.app/api?username=francoislfv&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+![francoislfv's Stats](https://github-readme-stats.vercel.app/api?username=francoislfv&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)   ![francoislfv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoislfv&theme=great-gatsby&hide_border=true)
 
 
 <!---
