@@ -1,7 +1,7 @@
 <h1>Hey 👋! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm François, developer studen from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>
+<p>Welcome to my page! </br> I'm François, developer student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>
 <h3>Things I'm learning to code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
