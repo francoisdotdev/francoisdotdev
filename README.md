@@ -1,8 +1,8 @@
 <h1>Hey 👋! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm François, developer student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>
-<h3>Things I'm learning to code with</h3>
+<p>Welcome to my page! </br> I'm François, developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b>
+<h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
