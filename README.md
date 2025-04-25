@@ -14,10 +14,9 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 </p>
-
+<!---
 ![francoislfv's Stats](https://github-readme-stats.vercel.app/api?username=francoislfv&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)   
-![francoislfv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francoislfv&theme=great-gatsby&hide_border=true)
-
+--->
 
 <!---
 francoislfv/francoislfv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
