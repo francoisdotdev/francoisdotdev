@@ -27,6 +27,7 @@ I'm **François**, a passionate fullstack developer from 🇫🇷 **France**.
 
 🔎 Feel free to explore my work — and let's shape the future together!  
 👉 [Visit Skylivae on GitHub](https://github.com/skylivae)
+
 [![Skylivae](https://img.shields.io/badge/Skylivae-Organization-4CAF50?logo=github&logoColor=white)](https://github.com/skylivae)
 
 ---
