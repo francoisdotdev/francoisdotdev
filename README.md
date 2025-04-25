@@ -24,17 +24,13 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 
 > **Skylivae** is an intelligent platform blending AI, satellite and drone technologies to empower farmers with precise, resilient, and connected agriculture.
 
-🔎 Feel free to explore my work — and let's shape the future together!  
-👉 [Visit Skylivae on GitHub](https://github.com/skylivae)
+🔎 Feel free to explore my work — and let's shape the future together!
 
-[![Skylivae](https://img.shields.io/badge/Skylivae-Organization-4CAF50?logo=github&logoColor=white)](https://github.com/skylivae)
+[![🌻 Skylivae](https://img.shields.io/badge/Skylivae-Organization-20232A?logo=github&logoColor=white)](https://github.com/skylivae)
 
 ---
-
 
 <!---
 francoislfv/francoislfv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
