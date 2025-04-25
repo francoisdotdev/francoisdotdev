@@ -4,7 +4,7 @@ Welcome to my GitHub!
 I'm **François**, a passionate fullstack developer from 🇫🇷 **France**.
 
 🚀 I build smart, intuitive apps — especially projects that combine **technology** and **nature**.  
-🌱 Currently working on [![Skylivae](https://img.shields.io/badge/Skylivae-Organization-4CAF50?logo=github&logoColor=white)](https://github.com/skylivae), an AI-powered platform for precision agriculture.
+🌱 Currently working on **Skylivae**, an AI-powered platform for precision agriculture.
 
 ---
 
