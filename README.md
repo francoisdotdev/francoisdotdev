@@ -16,6 +16,8 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img alt="Hono.js" src="https://img.shields.io/badge/Hono-FF4F4F?logo=hono&logoColor=white" />
 </p>
 
 ---
