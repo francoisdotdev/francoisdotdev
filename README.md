@@ -29,7 +29,7 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-FF69B4?logo=daisyui&logoColor=white" />
 </p>
 
-### 🗃️ Databases
+### 🗃️ Databases & ORMs
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
