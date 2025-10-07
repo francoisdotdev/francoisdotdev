@@ -35,7 +35,7 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 
 ---
 
-##📊 This Week I Spent My Time On
+## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
 
 ```txt
