@@ -33,11 +33,10 @@ I'm **François**, a passionate developer from <img src="https://cdn-icons-png.f
   <picture><img alt="Prisma" title="Prisma" height="38" src="https://cdn.simpleicons.org/prisma/2D3748"></picture>
 </p>
 
----
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francoisdotdev&theme=high-contrast)
 
----
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
