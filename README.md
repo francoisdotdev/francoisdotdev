@@ -11,26 +11,59 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 ## 🛠️ I work with
 
 ### 💻 Languages
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/FFFFFF" />
+    <img alt="JavaScript" height="38" src="https://cdn.simpleicons.org/javascript/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/FFFFFF" />
+    <img alt="TypeScript" height="38" src="https://cdn.simpleicons.org/typescript/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/FFFFFF" />
+    <img alt="PHP" height="38" src="https://cdn.simpleicons.org/php/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF" />
+    <img alt="Python" height="38" src="https://cdn.simpleicons.org/python/000000" />
+  </picture>
 </p>
 
 ### 📚 Frameworks & Libraries
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="Hono.js" src="https://img.shields.io/badge/Hono-FF4F4F?logo=hono&logoColor=white" />
-  <img alt="ShadCN UI" src="https://img.shields.io/badge/ShadCN_UI-111827?logo=shadcnui&logoColor=white" />
-  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-FF69B4?logo=daisyui&logoColor=white" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+    <img alt="Next.js" height="38" src="https://cdn.simpleicons.org/nextdotjs/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/hono/FFFFFF" />
+    <img alt="Hono.js" height="38" src="https://cdn.simpleicons.org/hono/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/FFFFFF" />
+    <img alt="ShadCN UI" height="38" src="https://cdn.simpleicons.org/shadcnui/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/FFFFFF" />
+    <img alt="DaisyUI" height="38" src="https://cdn.simpleicons.org/daisyui/000000" />
+  </picture>
 </p>
 
 ### 🗃️ Databases & ORMs
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF" />
+    <img alt="MySQL" height="38" src="https://cdn.simpleicons.org/mysql/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/FFFFFF" />
+    <img alt="MongoDB" height="38" src="https://cdn.simpleicons.org/mongodb/000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF" />
+    <img alt="Prisma" height="38" src="https://cdn.simpleicons.org/prisma/000000" />
+  </picture>
 </p>
 
 ---
