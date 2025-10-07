@@ -39,6 +39,15 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+PHP          17 hrs 46 mins  ████████████████████████░   96.55 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+INI          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
