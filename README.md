@@ -35,6 +35,10 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 
 ---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francoisdotdev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
 
