@@ -11,12 +11,15 @@ I'm **François**, a passionate developer from <img src="https://cdn-icons-png.f
 ## 🛠️ I work with
 
 ### 💻 Languages
-<p align="left">
-  <picture><img alt="JavaScript" title="JavaScript" height="38" src="https://cdn.simpleicons.org/javascript/F7DF1E"></picture>
-  <picture><img alt="TypeScript" title="TypeScript" height="38" src="https://cdn.simpleicons.org/typescript/3178C6"></picture>
-  <picture><img alt="PHP" title="PHP" height="38" src="https://cdn.simpleicons.org/php/777BB4"></picture>
-  <picture><img alt="Python" title="Python" height="38" src="https://cdn.simpleicons.org/python/3776AB"></picture>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ### 📚 Frameworks & Libraries
 <p align="left">
