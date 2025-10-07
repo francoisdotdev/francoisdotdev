@@ -37,21 +37,9 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 </p>
 
-### 🔧 Tools & Utilities
-<p>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-</p>
-
-### 🛰️ Geo & Mapping
-<p>
-  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
-</p>
-
-### 🎨 UI/UX & Design
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-</p>
-
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🌻 About Skylivae
