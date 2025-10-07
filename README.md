@@ -11,13 +11,27 @@ I'm **François**, a passionate fullstack developer from <img src="https://cdn-i
 ## 🛠️ I work with
 
 ### 💻 Languages
-<p align="left"><img alt="JavaScript" title="JavaScript" height="38" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>&nbsp;<img alt="TypeScript" title="TypeScript" height="38" src="https://cdn.simpleicons.org/typescript/3178C6"/>&nbsp;<img alt="PHP" title="PHP" height="38" src="https://cdn.simpleicons.org/php/777BB4"/>&nbsp;<img alt="Python" title="Python" height="38" src="https://cdn.simpleicons.org/python/3776AB"/></p>
+<p align="left">
+  <picture><img alt="JavaScript" title="JavaScript" height="38" src="https://cdn.simpleicons.org/javascript/F7DF1E"></picture>
+  <picture><img alt="TypeScript" title="TypeScript" height="38" src="https://cdn.simpleicons.org/typescript/3178C6"></picture>
+  <picture><img alt="PHP" title="PHP" height="38" src="https://cdn.simpleicons.org/php/777BB4"></picture>
+  <picture><img alt="Python" title="Python" height="38" src="https://cdn.simpleicons.org/python/3776AB"></picture>
+</p>
 
 ### 📚 Frameworks & Libraries
-<p align="left"><img alt="Next.js" title="Next.js" height="38" src="https://cdn.simpleicons.org/nextdotjs/000000"/>&nbsp;<img alt="Hono.js" title="Hono.js" height="38" src="https://cdn.simpleicons.org/hono/FF4F4F"/>&nbsp;<img alt="ShadCN UI" title="ShadCN UI" height="38" src="https://cdn.simpleicons.org/shadcnui/111827"/>&nbsp;<img alt="DaisyUI" title="DaisyUI" height="38" src="https://cdn.simpleicons.org/daisyui/FF69B4"/></p>
+<p align="left">
+  <picture><img alt="Next.js" title="Next.js" height="38" src="https://cdn.simpleicons.org/nextdotjs/000000"></picture>
+  <picture><img alt="Hono.js" title="Hono.js" height="38" src="https://cdn.simpleicons.org/hono/FF4F4F"></picture>
+  <picture><img alt="ShadCN UI" title="ShadCN UI" height="38" src="https://cdn.simpleicons.org/shadcnui/111827"></picture>
+  <picture><img alt="DaisyUI" title="DaisyUI" height="38" src="https://cdn.simpleicons.org/daisyui/FF69B4"></picture>
+</p>
 
 ### 🗃️ Databases & ORMs
-<p align="left"><img alt="MySQL" title="MySQL" height="38" src="https://cdn.simpleicons.org/mysql/4479A1"/>&nbsp;<img alt="MongoDB" title="MongoDB" height="38" src="https://cdn.simpleicons.org/mongodb/47A248"/>&nbsp;<img alt="Prisma" title="Prisma" height="38" src="https://cdn.simpleicons.org/prisma/2D3748"/></p>
+<p align="left">
+  <picture><img alt="MySQL" title="MySQL" height="38" src="https://cdn.simpleicons.org/mysql/4479A1"></picture>
+  <picture><img alt="MongoDB" title="MongoDB" height="38" src="https://cdn.simpleicons.org/mongodb/47A248"></picture>
+  <picture><img alt="Prisma" title="Prisma" height="38" src="https://cdn.simpleicons.org/prisma/2D3748"></picture>
+</p>
 
 ---
 
