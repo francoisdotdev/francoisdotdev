@@ -1,6 +1,5 @@
 # Hey 👋! Nice to see you.
 
-Welcome to my GitHub!  
 I'm **François**, a passionate developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **France**.
 
 🚀 I build smart, intuitive apps — especially projects that combine **technology** and **nature**.  
