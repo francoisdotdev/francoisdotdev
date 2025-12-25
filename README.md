@@ -34,6 +34,10 @@ I'm **François**, a passionate developer from <img src="https://cdn-icons-png.f
 
 ---
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francoisdotdev&theme=high-contrast)
+
+---
+
 ## 🌻 About Skylivae
 
 > **Skylivae** is an intelligent platform blending AI, satellite and drone technologies to empower farmers with precise, resilient, and connected agriculture.
