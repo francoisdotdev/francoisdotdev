@@ -34,27 +34,6 @@ I'm **François**, a passionate developer from <img src="https://cdn-icons-png.f
 
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francoisdotdev&theme=high-contrast)
-
-
-## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 December 2025 - To: 23 December 2025
-
-Total Time: 11 hrs 22 mins
-
-TypeScript   4 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.25 %
-HTML         1 hr 16 mins    ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.20 %
-Markdown     1 hr 12 mins    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.60 %
-JSON         1 hr 10 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.33 %
-Bash         1 hr 2 mins     ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.18 %
-```
-
-<!--END_SECTION:waka-->
----
-
 ## 🌻 About Skylivae
 
 > **Skylivae** is an intelligent platform blending AI, satellite and drone technologies to empower farmers with precise, resilient, and connected agriculture.
