@@ -17,7 +17,7 @@ const francois = {
 
 <div align="center">
 
-## What I'm building
+## 🔧 What I'm building
 
 </div>
 
@@ -46,7 +46,7 @@ AI-powered precision agriculture platform combining satellite imagery and machin
 
 <div align="center">
 
-## Tech Stack 🔧
+## ⚙️ Tech Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,bun,docker,redis,prisma&theme=dark" />
@@ -64,9 +64,9 @@ AI-powered precision agriculture platform combining satellite imagery and machin
 
 <br>
 
-## Activity Graph 🔋
-
 <div align="center">
+
+## 🔋 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=francoisdotdev&theme=high-contrast" />
 
