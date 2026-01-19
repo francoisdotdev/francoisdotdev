@@ -10,7 +10,7 @@
 const francois = {
     currentProject: ["TiwazPace", "Skylivae"],
     learning: ["DevOps", "System Design", "Cloud Architecture", "AI/ML", "Computer Vision"],
-    interests: ["Endurance Sports", "Precision Agriculture"]
+    interests: ["Endurance Sports", "Precision Agriculture", "Health Tech", "Entrepreneurship", "Automation"]
 };
 ```
 
