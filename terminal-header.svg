@@ -1,0 +1,82 @@
+<svg width="800" height="350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Terminal window -->
+  <rect width="800" height="350" rx="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="32" rx="10" fill="#161b22"/>
+  <rect y="20" width="800" height="12" fill="#161b22"/>
+
+  <!-- Window buttons -->
+  <circle cx="20" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="16" r="6" fill="#27ca40"/>
+
+  <!-- Terminal title -->
+  <text x="400" y="20" fill="#7d8590" font-family="monospace" font-size="12" text-anchor="middle">francois@dev:~</text>
+
+  <!-- ANSI Art Name (PNG) -->
+  <image x="20" y="45" width="380" height="83" href="data:image/png;base64,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"/>
+
+  <!-- Subtitle -->
+  <text x="20" y="145" font-family="monospace" font-size="12">
+    <tspan fill="#7d8590">// </tspan>
+    <tspan fill="#f0883e">Student</tspan>
+    <tspan fill="#7d8590"> &amp; </tspan>
+    <tspan fill="#f0883e">Developer</tspan>
+    <tspan fill="#7d8590"> from </tspan>
+    <tspan fill="#58a6ff">France</tspan>
+  </text>
+
+  <!-- Separator -->
+  <text x="20" y="165" font-family="monospace" font-size="11" fill="#30363d">────────────────────────────────────────────────────────────────────────────</text>
+
+  <!-- Current Projects -->
+  <text y="190" font-family="monospace" font-size="12">
+    <tspan x="20" fill="#7ee787">➜</tspan>
+    <tspan fill="#ff7b72"> ~/projects</tspan>
+    <tspan fill="#c9d1d9"> $</tspan>
+    <tspan fill="#79c0ff"> ls</tspan>
+  </text>
+  <text y="210" font-family="monospace" font-size="12">
+    <tspan x="35" fill="#ffa657">🏊🚴🏃 TiwazPace/</tspan>
+    <tspan fill="#7d8590">  ← endurance sports training app</tspan>
+  </text>
+  <text y="228" font-family="monospace" font-size="12">
+    <tspan x="35" fill="#ffa657">🌻 Skylivae/</tspan>
+    <tspan fill="#7d8590">      ← AI precision agriculture</tspan>
+  </text>
+
+  <!-- Learning -->
+  <text y="258" font-family="monospace" font-size="12">
+    <tspan x="20" fill="#7ee787">➜</tspan>
+    <tspan fill="#ff7b72"> ~/learning</tspan>
+    <tspan fill="#c9d1d9"> $</tspan>
+    <tspan fill="#79c0ff"> cat stack.txt</tspan>
+  </text>
+  <text y="278" font-family="monospace" font-size="11">
+    <tspan x="35" fill="#a5d6ff">[DevOps]</tspan>
+    <tspan fill="#d2a8ff"> [System Design]</tspan>
+    <tspan fill="#7ee787"> [Cloud Architecture]</tspan>
+    <tspan fill="#ff7b72"> [AI/ML]</tspan>
+    <tspan fill="#ffa657"> [Computer Vision]</tspan>
+  </text>
+
+  <!-- Interests -->
+  <text y="308" font-family="monospace" font-size="12">
+    <tspan x="20" fill="#7ee787">➜</tspan>
+    <tspan fill="#ff7b72"> ~/interests</tspan>
+    <tspan fill="#c9d1d9"> $</tspan>
+    <tspan fill="#79c0ff"> echo $PASSIONS</tspan>
+  </text>
+  <text y="328" font-family="monospace" font-size="11">
+    <tspan x="35" fill="#79c0ff">Endurance Sports</tspan>
+    <tspan fill="#7d8590"> • </tspan>
+    <tspan fill="#7ee787">Precision Agriculture</tspan>
+    <tspan fill="#7d8590"> • </tspan>
+    <tspan fill="#ffa657">Health Tech</tspan>
+    <tspan fill="#7d8590"> • </tspan>
+    <tspan fill="#d2a8ff">Entrepreneurship</tspan>
+    <tspan fill="#7d8590"> • </tspan>
+    <tspan fill="#ff7b72">Automation</tspan>
+  </text>
+</svg>
