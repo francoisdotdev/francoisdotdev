@@ -1,19 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=400&color=2065ce&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Fran%C3%A7ois+👨🏻‍💻🌱🚲;Student+%26+Developer+from+France;Building+tools+that+solve+problems)](https://git.io/typing-svg)
+<img src="./terminal-header.svg" width="1200" />
+
 </div>
-
-<br>
-
-```typescript
-const francois = {
-    currentProject: ["TiwazPace", "Skylivae"],
-    learning: ["DevOps", "System Design", "Cloud Architecture", "AI/ML", "Computer Vision"],
-    interests: ["Endurance Sports", "Precision Agriculture", "Health Tech", "Entrepreneurship", "Automation"]
-};
-```
-
-<br>
 
 <div align="center">
 
