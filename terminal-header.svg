@@ -1,6 +1,6 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
   <!-- Terminal window -->
-  <rect width="800" height="200" rx="10" fill="#0d1117"/>
+  <rect width="800" height="250" rx="10" fill="#0d1117"/>
 
   <!-- Title bar -->
   <rect width="800" height="32" rx="10" fill="#161b22"/>
