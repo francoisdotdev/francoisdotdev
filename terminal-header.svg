@@ -30,23 +30,7 @@
   <!-- Separator -->
   <text x="20" y="165" font-family="monospace" font-size="11" fill="#30363d">────────────────────────────────────────────────────────────────────────────</text>
 
-  <!-- Current Projects -->
-  <text y="190" font-family="monospace" font-size="12">
-    <tspan x="20" fill="#7ee787">➜</tspan>
-    <tspan fill="#ff7b72"> ~/projects</tspan>
-    <tspan fill="#c9d1d9"> $</tspan>
-    <tspan fill="#79c0ff"> ls</tspan>
-  </text>
-  <text y="210" font-family="monospace" font-size="12">
-    <tspan x="35" fill="#ffa657">🏊🚴🏃 TiwazPace/</tspan>
-    <tspan fill="#7d8590">  ← endurance sports training app</tspan>
-  </text>
-  <text y="228" font-family="monospace" font-size="12">
-    <tspan x="35" fill="#ffa657">🌻 Skylivae/</tspan>
-    <tspan fill="#7d8590">      ← AI precision agriculture</tspan>
-  </text>
-
-  <!-- Learning -->
+ 
   <text y="258" font-family="monospace" font-size="12">
     <tspan x="20" fill="#7ee787">➜</tspan>
     <tspan fill="#ff7b72"> ~/learning</tspan>
@@ -61,22 +45,4 @@
     <tspan fill="#ffa657"> [Computer Vision]</tspan>
   </text>
 
-  <!-- Interests -->
-  <text y="308" font-family="monospace" font-size="12">
-    <tspan x="20" fill="#7ee787">➜</tspan>
-    <tspan fill="#ff7b72"> ~/interests</tspan>
-    <tspan fill="#c9d1d9"> $</tspan>
-    <tspan fill="#79c0ff"> echo $PASSIONS</tspan>
-  </text>
-  <text y="328" font-family="monospace" font-size="11">
-    <tspan x="35" fill="#79c0ff">Endurance Sports</tspan>
-    <tspan fill="#7d8590"> • </tspan>
-    <tspan fill="#7ee787">Precision Agriculture</tspan>
-    <tspan fill="#7d8590"> • </tspan>
-    <tspan fill="#ffa657">Health Tech</tspan>
-    <tspan fill="#7d8590"> • </tspan>
-    <tspan fill="#d2a8ff">Entrepreneurship</tspan>
-    <tspan fill="#7d8590"> • </tspan>
-    <tspan fill="#ff7b72">Automation</tspan>
-  </text>
 </svg>
